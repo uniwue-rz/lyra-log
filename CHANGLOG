@@ -1,6 +1,9 @@
 # ChangeLog
 All the changes to this library are tracked here.
 
+## [0.0.3] 2017-07-23
+- Add the logger methods to the logger generator so the class can be used directly
+
 ## [0.0.2] 2017-07-20
 - Small changes in README
 
